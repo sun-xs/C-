@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b07bf9ad-a5eb-480b-b9ec-29919c2e5527": {
+      "ProjectGuid": "b07bf9ad-a5eb-480b-b9ec-29919c2e5527",
+      "DisplayName": "文件操作",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
