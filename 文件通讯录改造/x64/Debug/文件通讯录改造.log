@@ -1,0 +1,5 @@
+﻿  contact.c
+E:\C语言项目存放\文件通讯录改造\contact.c(106,34): warning C4028: 形参 1 与声明不同
+  test.c
+  正在生成代码...
+  文件通讯录改造.vcxproj -> E:\C语言项目存放\文件通讯录改造\x64\Debug\文件通讯录改造.exe
