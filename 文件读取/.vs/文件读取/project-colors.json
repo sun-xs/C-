@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0e86b8d-1831-4d52-9526-9ac38f6a305d": {
+      "ProjectGuid": "f0e86b8d-1831-4d52-9526-9ac38f6a305d",
+      "DisplayName": "文件读取",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
