@@ -1,0 +1,10 @@
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:0
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:1
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:2
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:3
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:4
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:5
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:6
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:7
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:8
+file:E:\C语言项目存放\预处理2\test.c line:22 date:Mar 12 2022 time:15:00:51 i:9
